@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/prabhu-b-devloper.github.io/static/css/main.cf46f77e.css",
+    "main.js": "/prabhu-b-devloper.github.io/static/js/main.7e38b4c6.js",
+    "static/js/787.a2cb61a6.chunk.js": "/prabhu-b-devloper.github.io/static/js/787.a2cb61a6.chunk.js",
+    "static/media/background-img.jpg": "/prabhu-b-devloper.github.io/static/media/background-img.baa370592999bfc50dce.jpg",
+    "static/media/profile-pic.png": "/prabhu-b-devloper.github.io/static/media/profile-pic.6c81f50ce5cf5967e41b.png",
+    "static/media/android project.jpg": "/prabhu-b-devloper.github.io/static/media/android project.21090f1ce846786c2a92.jpg",
+    "static/media/flutter project.jpg": "/prabhu-b-devloper.github.io/static/media/flutter project.3e20074ee7b0603dc595.jpg",
+    "static/media/ionic project.jpg": "/prabhu-b-devloper.github.io/static/media/ionic project.10c4b5cbcc9c86349694.jpg",
+    "index.html": "/prabhu-b-devloper.github.io/index.html",
+    "main.cf46f77e.css.map": "/prabhu-b-devloper.github.io/static/css/main.cf46f77e.css.map",
+    "main.7e38b4c6.js.map": "/prabhu-b-devloper.github.io/static/js/main.7e38b4c6.js.map",
+    "787.a2cb61a6.chunk.js.map": "/prabhu-b-devloper.github.io/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf46f77e.css",
+    "static/js/main.7e38b4c6.js"
+  ]
+}
